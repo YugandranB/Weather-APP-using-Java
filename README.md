@@ -20,22 +20,6 @@
 <li><strong>Deployment:</strong> Vercel</li>
 </ul>
 
-<h2>⚙️ Installation</h2>
-<ol>
-<li>Clone the repository:
-<pre><code>git clone https://github.com/your-username/weather-app.git
-cd weather-app</code></pre>
-</li>
-<li>Install dependencies:
-<pre><code>npm install</code></pre>
-</li>
-<li>Create a <code>.env.local</code> file and add your API key:
-<pre><code>REACT_APP_WEATHER_API_KEY=your_api_key</code></pre>
-</li>
-<li>Start the development server:
-<pre><code>npm run dev</code></pre>
-</li>
-</ol>
 
 <h2>🚀 Deployment on Vercel</h2>
 <ol>
